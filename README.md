@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 I have a passion for technology and I have a Bachelor of Science in Computing and IT. I have theoretical and practical knowledge in web technology, Information Technology and Network Infrastructures. I am familiar with the following programming languages and database technologies: 
 ## Frontend
